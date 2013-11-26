@@ -56,6 +56,6 @@ EOF
 
   s.required_ruby_version = ">= 1.8"
 
-  s.add_dependency( "ffi",  git: "git://github.com:hybridgroup/ffi.git", branch: "bug-variadic-params" )
+  s.add_dependency( "ffi")
 
 end
